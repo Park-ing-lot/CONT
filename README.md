@@ -11,7 +11,7 @@
    unzip feature_extraction.zip
    ```
    
-3. Clone and set the environments by following the instructions from [MoLFormer](https://github.com/IBM/molformer/tree/main). \
+3. Clone and set the environments by following the instructions from [MoLFormer](https://github.com/IBM/molformer/blob/main/environment.md). \
    You also need to download the dataset and pre-trained checkpoints.
    ```
    git clone https://github.com/IBM/molformer.git
